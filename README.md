@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate frontend developer from Bahrain</h3>
+<h3 align="center">A Beginner Penetration Tester from Bahrain</h3>
 
 <p align="left"> <a href="https://twitter.com/0xmarc0" target="blank"><img src="https://img.shields.io/twitter/follow/0xmarc0?logo=twitter&style=for-the-badge" alt="0xmarc0" /></a> </p>
 
